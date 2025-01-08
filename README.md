@@ -13,7 +13,6 @@
 
 <pre>
 <code>
-# Instale as dependências
 npm install
 </code>
 </pre>
